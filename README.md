@@ -9,7 +9,7 @@ For me, Writing code can be addictive, just like playing a game. I am really cod
 
 ![fun](./images/fun.png) Fun facts: I like coding / hiking with my dog / playing badminton / gardening.
 
-## Skills:
+## Skills
 
 <img src="./images/html.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/css.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/js.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/react.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/bootstrap.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/sass.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/ruby.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/rails.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/psql.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/mongoDB.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/nodejs.png" width="50">&nbsp;&nbsp;&nbsp;<img src="./images/mysql.png" width="50">&nbsp;&nbsp;&nbsp;
 
